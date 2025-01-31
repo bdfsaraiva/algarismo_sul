@@ -48,7 +48,7 @@ header {
 .hero {
     height: 80vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('contab1.png') center/cover;
+        url('images/contab1.png') center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
